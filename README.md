@@ -26,19 +26,3 @@ ChassistantGPT **supports over 60 languages and dialects**. Pick your native lan
 2. Install dependencies with `npm install`
 3. Run `npm run build`
 4. Follow the steps in the "Local Install" section above (with the resulting `/build/chrome.zip`).
-
-## Roadmap
-- [X] Turn popup into a chat with the session history.
-- [X] Support more languages.
-- [X] Customize trigger phrase.
-- [X] Add push-to-talk.
-- [ ] Improve code playbacks.
-- [ ] Beautify tab UI.
-
-## Contribution
-Pull requests and suggestions are welcome.
-
-Many thanks to the brilliant @talkor for improving the UI!
-
-This project's template is based on the very cool [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extensione)
-
